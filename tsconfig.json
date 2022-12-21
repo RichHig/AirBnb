@@ -20,7 +20,10 @@
     "**/*.ts",
     "**/*.tsx",
     "components/SmallCard.js",
-    "pages/index.js"
+    "pages/index.js",
+    "components/Hero.js",
+    "components/Header.js",
+    "pages/_app.js"
   ],
   "exclude": ["node_modules"]
 }
